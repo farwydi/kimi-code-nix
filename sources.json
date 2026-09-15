@@ -1,21 +1,21 @@
 {
-  "version": "0.42.0",
+  "version": "0.43.1",
   "systems": {
     "x86_64-linux": {
       "filename": "kimi-code-linux-x64",
-      "hash": "sha256-67TvAthf4KKd2pWlpgvNBgiijB/zMdJ+mb5UudRy4z0="
+      "hash": "sha256-IBeH3kQVBzL8tfhWF+1csgTlr/Dkut9KC90HdSrMf24="
     },
     "aarch64-linux": {
       "filename": "kimi-code-linux-arm64",
-      "hash": "sha256-T6DW96UXFzPZORsHTr/jGOgafug69sZI1RxCg0lhzFo="
+      "hash": "sha256-OB0ylqWJYiH5+ebNQpJTBDQjxtFEBi6PsT3G+BwyYx8="
     },
     "x86_64-darwin": {
       "filename": "kimi-code-darwin-x64",
-      "hash": "sha256-WDk0U8qmlhyP4jNV4ye8NasTYdI7ye7Kp6aQdRjTRP0="
+      "hash": "sha256-puE+YpDPbTWrgFzvx3Sz3jtwqKj57HhrKG50luNk87o="
     },
     "aarch64-darwin": {
       "filename": "kimi-code-darwin-arm64",
-      "hash": "sha256-12T97ybxuxCMx0x/u0D9viP2fYxQfPk6L5+qTf+5+N8="
+      "hash": "sha256-/jUdSHLWs1wn8U7F6JWyHR4UwrCdeOoXS0uOzCiJdMY="
     }
   }
 }
